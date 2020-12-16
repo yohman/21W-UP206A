@@ -19,7 +19,6 @@ _Please email in advance for appointments_
 * Yoh: Thursdays 1PM - 3PM and by appointment
 * Chris: Thursdays 10AM-12PM and by appointment
 
-
 ## Course Description
 
 Welcome to the world of planning and spatial thinking. In recent years, our relationship with maps and map-making has changed dramatically. No longer are we limited to a mode of map-making that is dominated by industry giants like Google and ESRI. Instead, a suite of data-science tools have matured to a point where they can produce similar, if not, more powerful and creative ways that advance spatial exploration. 
