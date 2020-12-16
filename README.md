@@ -17,7 +17,7 @@ Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Office Hours: 
 
-_Please email in advance for appointments._
+_Please email in advance for appointments_
 
 * Yoh: Thursdays 1PM - 3PM and by appointment
 * Chris: Thursdays 10AM-12PM and by appointment
@@ -151,15 +151,15 @@ Weekly content is subject to change, and will be modified as needed based on cla
 ### [Week 6 (11/9): Mid-terms](https://github.com/yohman/up206a/tree/master/Weeks/Week06)
 - [Midterms](https://github.com/yohman/up206a/tree/master/Midterm%20and%20Finals)
 
-### [Week 7 (11/16): Geo-processing with geopandas](https://github.com/yohman/up206a/tree/master/Weeks/Week07)
+### [Week 7 (11/16): Geocoding, multiple overlays, and functions](https://github.com/yohman/up206a/tree/master/Weeks/Week07)
 - [Group assignment #3: Data Visualization](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment3.md)
 
-### [Week 8 (11/23): Advanced methods in spatial analysis](https://github.com/yohman/up206a/tree/master/Weeks/Week08)
+### [Week 8 (11/23): Spatial statistics](https://github.com/yohman/up206a/tree/master/Weeks/Week08)
 
-### [Week 9 (11/30): Spatial Data Science: R to the “r”escue](https://github.com/yohman/up206a/tree/master/Weeks/Week09)
+### [Week 9 (11/30): Point pattern analysis and sentiment analysis](https://github.com/yohman/up206a/tree/master/Weeks/Week09)
 - [Group assignment #4: Spatial Analysis](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment4.md)
 
-### [Week 10 (12/7): Final Project Preparation](https://github.com/yohman/up206a/tree/master/Weeks/Week10)
+### [Week 10 (12/7): Story maps and interactive web mapping](https://github.com/yohman/up206a/tree/master/Weeks/Week10)
 
 ## Resources:
 
