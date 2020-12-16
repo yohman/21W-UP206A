@@ -135,7 +135,7 @@ Weekly content is subject to change, and will be modified as needed based on cla
 *   Make sure you can log into the class JupyterHub
     *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-### [Week 1 (10/5): Introduction to spatial data science](https://github.com/yohman/up206a/tree/master/Weeks/Week01)
+### [Week 1 (10/5): Introduction to spatial data science](Weeks/Week01)
 
 ### [Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/up206a/tree/master/Weeks/Week02)
 - [Group assignment #1: Project Proposal](https://github.com/yohman/up206a/blob/master/Group%20Assignments/GroupAssignment1.md)
