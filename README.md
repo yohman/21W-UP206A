@@ -1,6 +1,6 @@
 # UP206A: Introduction to GIS and Spatial Data Science
 
-Fall 2020
+Winter 2021
 
 Mondays 2pm - 5pm
 
@@ -11,7 +11,6 @@ Yoh Kawano (yohman@gmail.com)
 
 ## Teaching Assistants:
 
-Bo Liu (bliu17@g.ucla.edu)
 
 Chris Giamarino (cgiamarino@g.ucla.edu)
 
@@ -21,7 +20,6 @@ Chris Giamarino (cgiamarino@g.ucla.edu)
 _Please email in advance for appointments._
 
 * Yoh: Thursdays 1PM - 3PM and by appointment
-* Bo: Thursday 5PM -6PM and by appointment
 * Chris: Thursdays 10AM-12PM and by appointment
 
 
