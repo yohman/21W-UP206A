@@ -10,21 +10,11 @@ Yoh Kawano (yohman@gmail.com)
 
 ## Teaching Assistants:
 
-<<<<<<< HEAD
-
-=======
->>>>>>> staging
 Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Office Hours: 
 
 _Please email in advance for appointments_
-<<<<<<< HEAD
-
-* Yoh: Thursdays 1PM - 3PM and by appointment
-* Chris: Thursdays 10AM-12PM and by appointment
-=======
->>>>>>> staging
 
 * Yoh: Thursdays 1PM - 3PM and by appointment
 * Chris: Thursdays 10AM-12PM and by appointment
