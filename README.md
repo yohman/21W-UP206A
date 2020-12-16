@@ -8,12 +8,9 @@ Mondays 2pm - 5pm
 
 Yoh Kawano (yohman@gmail.com)
 
-
 ## Teaching Assistants:
 
-
 Chris Giamarino (cgiamarino@g.ucla.edu)
-
 
 ## Office Hours: 
 
