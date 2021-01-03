@@ -11,6 +11,11 @@ Yoh Kawano (yohman@gmail.com)
 ## Teaching Assistants:
 
 Chris Giamarino (cgiamarino@g.ucla.edu)
+Eleanor Hunts (ehunts@ucla.edu)
+
+## Special Technology Assistant:
+
+Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
@@ -18,6 +23,7 @@ _Please email in advance for appointments_
 
 * Yoh: Thursdays 1PM - 3PM and by appointment
 * Chris: Thursdays 10AM-12PM and by appointment
+* Elenaor: TBD
 
 ## Course Description
 
