@@ -30,8 +30,6 @@ First, a definition:
 ## Hands on
 *   Introducing GitHub
 *   Introducing JupyterHub
-    * [Getting started](https://github.com/yohman/up206a/blob/master/Git%20related/01%20-%20Getting%20started%20every%20week.md)
-    
 *   Intro to Python
 
 ## Individual Assignments
