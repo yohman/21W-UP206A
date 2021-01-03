@@ -67,6 +67,14 @@ All assignments, unless otherwise specified, must be posted on your individual G
 - Mid-term 20%
 - Final report 30%
 
+| Task | Number of items | Points |
+|------|-----------------|--------|
+| Participation and individual assignments | 7-10 | 100 |
+| Group Assignments | 4 | 400 |
+| Mid-term | 1 | 200 |
+| Final report | 1 | 300 |
+
+
 ## Remote zoom learning expectations
 
 Welcome to the new normal. It is expected that the quarter will be conducted remotely and via zoom in its entirety. The good news is that this course—coding, data, maps!—is situated perfectly for remote learning. Nevertheless, there are some expectations and guidelines I would like to enforce in order to make this experience as fruitful and productive for all of us. First, make sure that your Internet connection and equipment are set up to use Zoom and able to share audio and video during class meetings. Let me know if there is a gap in your technology set-up as soon as possible, and we can see about finding solutions.
