@@ -11,6 +11,11 @@ Yoh Kawano (yohman@gmail.com)
 ## Teaching Assistants:
 
 Chris Giamarino (cgiamarino@g.ucla.edu)
+Eleanor Hunts (ehunts@ucla.edu)
+
+## Special Technology Assistant:
+
+Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
@@ -18,6 +23,7 @@ _Please email in advance for appointments_
 
 * Yoh: Thursdays 1PM - 3PM and by appointment
 * Chris: Thursdays 10AM-12PM and by appointment
+* Elenaor: TBD
 
 ## Course Description
 
@@ -66,6 +72,14 @@ All assignments, unless otherwise specified, must be posted on your individual G
    - There will be four group assignments throughout the quarter. Each assignment will be worth 25% of the total group assignment grade.
 - Mid-term 20%
 - Final report 30%
+
+| Task | Number of items | Points |
+|------|-----------------|--------|
+| Participation and individual assignments | 7-10 | 100 |
+| Group Assignments | 4 | 400 |
+| Mid-term | 1 | 200 |
+| Final report | 1 | 300 |
+
 
 ## Remote zoom learning expectations
 
