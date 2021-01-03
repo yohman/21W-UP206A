@@ -10,8 +10,8 @@ Yoh Kawano (yohman@gmail.com)
 
 ## Teaching Assistants:
 
-Chris Giamarino (cgiamarino@g.ucla.edu)
-Eleanor Hunts (ehunts@ucla.edu)
+- Chris Giamarino (cgiamarino@g.ucla.edu)
+- Eleanor Hunts (ehunts@ucla.edu)
 
 ## Special Technology Assistant:
 
@@ -53,7 +53,6 @@ I would be remiss if I do not mention various inspirations that have led to the 
 
 Second, I have taken the liberty (with permission) to borrow ideas and materials from other courses. I specifically took inspiration from [Paul Waddell](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)’s “[Urban Informatics and Visualization](https://github.com/waddell/CP255)” course at UC Berkeley, and [Geoff Boeing](https://geoffboeing.com/about/)’s “[Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)” at the Department of Urban Planning and Spatial Analysis at USC’s Sol Price School of Public Policy.
 
-
 ## Course materials
 
 The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub](https://jupyter.idre.ucla.edu), a web-based Jupyter Notebook environment, has been set up specifically for this class, and is available at the following [URL](https://jupyter.idre.ucla.edu). Note that you will need multi-factored authentication to login:
@@ -61,7 +60,6 @@ The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your JupyterHub account.
-
 
 ## Assignments and Evaluation
 
@@ -80,6 +78,14 @@ All assignments, unless otherwise specified, must be posted on your individual G
 | Mid-term | 1 | 200 |
 | Final report | 1 | 300 |
 
+## Grading criteria
+
+All assignments are graded on the following criteria:
+
+- **Timeliness**: Unless otherwise specified, all assignments are due at midnight of the day before the next class. For most assignments, you will be asked to submit them as files on your github account. The timestamp on the files on your github account will be used to determine whether they were submitted on time. Any late assignments will be marked down.
+- **Cleanliness**: Nobody wants to go through unreadable code! Make sure to document your work accordingly, providing markdown cells and comments throughout.
+- **Does it work?**: Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel, and running all cells.
+- **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
 
 ## Remote zoom learning expectations
 
