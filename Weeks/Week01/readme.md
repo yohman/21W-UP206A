@@ -10,8 +10,8 @@
 *   Who am I? Who are you? Survey results...
 *   Going over the Syllabus
 *   Two Monday Holidays this quarter. Makeup date/times?
-  * Martin Luther King, Jr. holiday	Monday, January 18
-  * Presidents’ Day holiday	Monday, February 15
+    * Martin Luther King, Jr. holiday	Monday, January 18
+    * Presidents’ Day holiday	Monday, February 15
 *   Questions? Concerns?
 
 ###   What is Spatial Data Science?
