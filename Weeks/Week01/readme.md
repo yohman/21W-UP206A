@@ -7,10 +7,8 @@
 *   Welcome!
 *   Expectations
 *   Introductions
-*   Who are you? Survey results...
+*   Who am I? Who are you? Survey results...
 *   Going over the Syllabus
-*   Mid-term and final projects will be based on groups (pairings)
-*   Where did ArcMap go?
 *   Questions? Concerns?
 
 ###   What is Spatial Data Science?
