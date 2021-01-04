@@ -30,6 +30,8 @@ First, a definition:
 ## Hands on
 *   Introducing GitHub
 *   Introducing JupyterHub
+    * [Getting started](https://github.com/yohman/up206a/blob/master/Git%20related/01%20-%20Getting%20started%20every%20week.md)
+    
 *   Intro to Python
 
 ## Individual Assignments
@@ -38,7 +40,7 @@ There are three deliverables this week. Each are due on Sunday (January) by midn
 
 ### #1. Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](../../Git%20related/02%20-%20Create%20your%20class%20repo.md)
+*   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](https://github.com/yohman/up206a/blob/master/Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
 
 ### #2. Submit two or more datasets
