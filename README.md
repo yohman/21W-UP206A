@@ -151,30 +151,30 @@ Weekly content is subject to change, and will be modified as needed based on cla
 *   Make sure you can log into the class JupyterHub
     *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-### [Week 1 (10/5): Introduction to spatial data science](Weeks/Week01)
+### [Week 1 (1/4): Introduction to spatial data science](Weeks/Week01)
 
-### [Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition](Weeks/Week02)
+### [Week 2 (1/11): Data in Urban Studies: The challenge in data acquisition](Weeks/Week02)
 - [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
 
-### [Week 3 (10/19): Understanding communities: Census data profiles](Weeks/Week03)
+### [Week 3 (1/18): Understanding communities: Census data profiles](Weeks/Week03)
 - [Group assignment #2: Census Data Exploration](Group%20Assignments/GroupAssignment2.md)
 
-### [Week 4 (10/26): Open Street Maps](Weeks/Week04)
+### [Week 4 (1/25): Open Street Maps](Weeks/Week04)
 
-### [Week 5 (11/2): Open data and APIs](Weeks/Week05)
+### [Week 5 (2/1): Open data and APIs](Weeks/Week05)
 
-### [Week 6 (11/9): Mid-terms](Weeks/Week06)
+### [Week 6 (2/8): Mid-terms](Weeks/Week06)
 - [Midterms](Midterm%20and%20Finals)
 
-### [Week 7 (11/16): Geocoding, multiple overlays, and functions](Weeks/Week07)
+### [Week 7 (2/15): Geocoding, multiple overlays, and functions](Weeks/Week07)
 - [Group assignment #3: Data Visualization](Group%20Assignments/GroupAssignment3.md)
 
-### [Week 8 (11/23): Spatial statistics](Weeks/Week08)
+### [Week 8 (2/22): Spatial statistics](Weeks/Week08)
 
-### [Week 9 (11/30): Point pattern analysis and sentiment analysis](Weeks/Week09)
+### [Week 9 (3/1): Point pattern analysis and sentiment analysis](Weeks/Week09)
 - [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
 
-### [Week 10 (12/7): Story maps and interactive web mapping](Weeks/Week10)
+### [Week 10 (3/8): Story maps and interactive web mapping](Weeks/Week10)
 
 ## Resources:
 
