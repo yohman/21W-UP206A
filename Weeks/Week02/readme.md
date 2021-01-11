@@ -41,10 +41,18 @@ Create a markdown page (optionally, you may choose to upload a PDF), which will 
 
 ### Individual assignment: Data Exploration
 *   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. If you do not have a dataset, you can download one from the [Los Angeles Times' "Mapping L.A. Boundaries"](http://boundaries.latimes.com/sets/) page.
-*   Launch JupyterHub, import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
+*   Launch JupyterHub and pload the dataset to your JupyterHub space
+*   Create a new python notebook (do not work on a copy of the lab notebook)
+*   Add an introductory markdown cell with a title (header) and paragraph that describes what you are doing
+*   Import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
     * `.shape`
     * `.info`
     * `.head()`
+    * `.plot()`
+    * `.value_counts()`
+    * run a query on the data that filters it in some way
+*   For each code cell, add a markdown cell that explains what you are doing
+*   Add markdown cells that describe the output of each operation
 *   Add your first data exploration Jupyter Notebook to your GitHub repository
 
 ### Reading assignment:
