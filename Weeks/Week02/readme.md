@@ -1,16 +1,17 @@
 # Week 2: Data in Urban Studies: The challenge in data acquisition
 
 ## Agenda
-
+*   Attention! **Next class is on Wednesday, January 20th, at 6pm**
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - we're here for you!
+*   Lab session
+*   Break
 *   Group creation
     * Breakout rooms based on interests
     * Google doc to enter your group pairings
-*   A selection from last week's readings
+*   A discussion on a selection from last week's readings
 *   [Our class data library](https://docs.google.com/spreadsheets/d/1m67s0-SptURpRLr6ISq6Fy7e_66LcSPLjfPjqhZxC8M/edit?usp=sharing)
-*   Attention! **Next class is on Wednesday, January 20th, at 6pm**
 
 ## Hands on
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
