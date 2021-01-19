@@ -25,6 +25,7 @@ Ben Winjum (bwinjum@ucla.edu)
 * Chris: Thursdays 10AM-12PM and by appointment
     * [Zoom room for Chris's office hours](https://ucla.zoom.us/j/94607793152?pwd=NEJRQzFxQU1HS0FvTWJsc3cxRC9BUT09#success)
 * Eleanor: Wednesday 4-6pm and by appointment
+    * [Zoom room for Eleanor's office hours](https://ucla.zoom.us/j/97743689109)
 
 ## Course Description
 
