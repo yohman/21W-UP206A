@@ -5,6 +5,13 @@
 ## Today's Agenda
 *   Welcome to week 3!
     * Concerns?
+    * Updated office hours:
+      * Yoh: Thursdays 1PM - 3PM and by appointment
+          * [Schedule an appointment](https://calendly.com/yohda/up206a)
+      * Chris: Thursdays 10AM-12PM and by appointment
+          * [Zoom room for Chris's office hours](https://ucla.zoom.us/j/94607793152?pwd=NEJRQzFxQU1HS0FvTWJsc3cxRC9BUT09#success)
+      * Eleanor: Wednesday 4-6pm and by appointment
+          * [Zoom room for Eleanor's office hours](https://ucla.zoom.us/j/97743689109)
 *   Lab: Census data exploration in python using pandas
 *   Code review (Chris)
 *   Reading discussion (Eleanor)
