@@ -1,17 +1,13 @@
 # Week 3
 
+*This session will be recorded*
 
-## Lecture
+## Today's Agenda
 *   Welcome to week 3!
     * Concerns?
-    * How to ask a question
-      * Ask Google and Stackoverflow first
-      * Provide minimum reproducible code that produces error
-      * Include a notebook file (.ipynb) AND associated data files (if shapefile, zip all files)
-      * Alternatively, provide a link to a github repo that has your notebook and datafiles
-
-## Hands on
-*   Census data exploration in python using pandas
+*   Lab: Census data exploration in python using pandas
+*   Code review (Chris)
+*   Reading discussion (Eleanor)
 
 ## Assignments
 
