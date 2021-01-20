@@ -17,9 +17,15 @@
 
 ### Group Assignment #2: Census Data Exploration
 
-For this group assignment, each group member will create and submit a separate Jupyter Notebook. Each notebook should choose a census indicator that is relevant to your research project. For example, one group member may choose to do a race profile for Los Angeles, and the other member may choose to do the same race profile for New York. Or, one member may choose to do a transportation profile for Los Angeles, and the other member may choose an education profile also for Los Angeles. Or, each member may choose a different time period to do a temporal analysis.
+For this group assignment, each group member will create and submit a separate Jupyter Notebook. Each notebook should choose census indicators that are relevant to your research project. For example:
+
+-  one group member may choose to do a race profile for Los Angeles, and the other member may choose to do the same race profile for New York
+-  one member may choose to do a transportation profile for Los Angeles, and the other member may choose an education profile also for Los Angeles
+-  each member may choose a different time period to do a temporal analysis.
 
 **Do not copy and paste the class lab. Make sure to start a brand new notebook.**
+
+**If you are working on a project outside of the United States, consult with me to find an alternative dataset to explore.**
 
 1.   The first cell of the notebook should be a markdown cell that includes a title, description, and author of the assignment.
 1.   Download census variables relevant to your research question (if you are working outside of the United States, consult with me to find an alternative dataset)
@@ -27,7 +33,7 @@ For this group assignment, each group member will create and submit a separate J
 1.   Produce several charts, including one or more maps
 1.   Make sure to document each procedure with markdown cells with relevant headers
 1.   Run the cells in the notebook, and make sure the notebook "reads" from top to bottom, telling a story
-1.   Upload each Jupyter Notebook to your group repo
+1.   Upload each Jupyter Notebook along with the associated census data file to your group repo
 
 ### Reading Assignment
 
