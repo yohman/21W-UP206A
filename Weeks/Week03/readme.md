@@ -33,7 +33,7 @@ For this group assignment, each group member will create and submit a separate J
 1.   Produce several charts, including one or more maps
 1.   Make sure to document each procedure with markdown cells with relevant headers
 1.   Run the cells in the notebook, and make sure the notebook "reads" from top to bottom, telling a story
-1.   Upload each Jupyter Notebook to your group repo
+1.   Upload each Jupyter Notebook along with the associated census data file to your group repo
 
 ### Reading Assignment
 
