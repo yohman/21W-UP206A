@@ -51,4 +51,5 @@ Read or watch one of the following pieces. Then, write a short reaction paragrap
 visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
 *  [Off the Grid… and Back Again? The Recent Evolution of American Street Network Planning and Design](../../readings/boeing_off_the_grid_2020.pdf)
 *  [Geoff Boeing's presentation to Urban Planners](https://youtu.be/Cjp4mxvpoBo)
+*  Late addition! [Isochrone Mapping of Urban Transport: Car-dependency, Mode-choice and Design Research](https://www.tandfonline.com/doi/figure/10.1080/02697459.2017.1329487?scroll=top&needAccess=true)
 
