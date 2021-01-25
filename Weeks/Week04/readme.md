@@ -31,7 +31,7 @@ The purpose of this week's coding assignment is for you to advance your coding i
 - Be pragramtic: combine elements from various labs to create unique outputs that specifically advance your research inquiry
 - Be innovative: experiment with new datasets/features not covered in class (if this requires a new module/library not covered in class, consult with Ben of me first)
 
-This assignment can be as long or as short as you desire. It is meant to review and advance your understanding of course material. To sumbit:
+This assignment can be as long or as short as you desire. It is meant to review and advance your understanding of course material. To submit:
 
 - create a new Python 3 notebook for your assignment
 - provide a title and explanatory description of what the purpose of the notebook is
