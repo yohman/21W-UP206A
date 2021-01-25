@@ -16,7 +16,7 @@
           * [Zoom room for Eleanor's office hours](https://ucla.zoom.us/j/97743689109)
 *   Lab: Census data exploration in python using pandas
 *   Code review (Chris)
-*   Reading discussion (Eleanor)
+*   [Reading discussion](https://docs.google.com/document/d/1ebuq3X8yqVT11p6Z0fK9YpLBL6-i6PgnTfEU1wCodPE/edit?usp=sharing) (Eleanor)
 
 ## Assignments
 
