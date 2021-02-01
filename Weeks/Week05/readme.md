@@ -3,8 +3,6 @@
 ## Agenda
 - Concerns?
 - Open data, API’s and why that matters
-
-## Open Data Week
 - Using Python to access Open Data Portals
 - LA Times Data Desk
 
