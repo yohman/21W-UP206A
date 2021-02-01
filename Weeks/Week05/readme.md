@@ -3,9 +3,9 @@
 ## Agenda
 - [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-UP206A&urlpath=tree%2F21W-UP206A%2F&branch=master)
 - Concerns?
-- Open data, API’s and why that matters
-- Using Python to access Open Data Portals
-- LA Times Data Desk
+- Lab: Open data, API’s and why that matters
+- Break
+- Group status updates
 
 ## Assignments
 - [Midterms](../../Midterm%20and%20Finals)
