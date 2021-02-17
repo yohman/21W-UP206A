@@ -9,13 +9,14 @@
 - Who is Chris?
 
 ## Special Guest for Week 8: Adam Millard-Ball
-![Adam](https://cdn.theconversation.com/avatars/1123988/width238/file-20200709-46-1wmq6nl.jpg) [about](https://luskin.ucla.edu/person/adam-millard-ball)
+![Adam](https://cdn.theconversation.com/avatars/1123988/width238/file-20200709-46-1wmq6nl.jpg) 
+[about](https://luskin.ucla.edu/person/adam-millard-ball)
 
 ## Assignments
 
 ### Group Assignment #3
 
-- [Instructions](../../Group Assignments/GroupAssignment3.md)
+- [Instructions](../../Group%20Assignments/GroupAssignment3.md)
 
 ### Individual Assignment
 Make sure to read one (or more) of the following papers by Adam:
