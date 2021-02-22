@@ -3,8 +3,6 @@
 ## Conversation Series for Week 8: Adam Millard-Ball
 ![Adam](https://cdn.theconversation.com/avatars/1123988/width238/file-20200709-46-1wmq6nl.jpg)
 
-- [Questions for Adam](https://docs.google.com/document/d/1WkH_fwsoZvoCRmdwuuUNC8SEn0z8NrTBpaiA-fgKV_k/edit?usp=sharing)
-
 ## Week 8 lab
 * Spatial Autocorrelation
 
