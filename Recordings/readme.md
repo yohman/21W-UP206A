@@ -7,3 +7,4 @@ These recordings are password protected and only available to students who are c
 - Week 4 [Open street map](https://ucla.zoom.us/rec/share/s3W99zyVCT5YBV-Yb2aBZXNMTaKLWAUQhSdScc2wxli_yXAhDNHNTFrLQhMHmK3f.hJk0gOX2Q5FfKoLR?startTime=1611612449000)
 - Week 5 [Open data](https://ucla.zoom.us/rec/share/zwoNWLyCL7jHCcrrPTfb-RWGZJNQ0uSzY2azEF8I_UdqtaaDCujLcavIxCJBp1a6.g75sgKFq-NUHn6J0?startTime=1612216950000)
 - Week 7 [Hackathon, bus scraping, and getting to know Chris](https://ucla.zoom.us/rec/share/OlRNUWgpb-SrMUVkAr_D6F-HjYNq9hiS3OCVlD8Nln0GD-TpZQyo8SQuoRuXOxdS.4vIkjDCS1uV6X6Ia?startTime=1613613992000)
+- Week 8 [A Conversation with Adam and Spatial Autocorrelation Lab](https://ucla.zoom.us/rec/share/A_e_-Z7YYaWG-ByA-rlfCNHNTekYBY1pEdSNsu-__P8-EK5mRQ-wiZD3aT747hjT.q8XfYnAkh2aW6OB9?startTime=1614031633000)
