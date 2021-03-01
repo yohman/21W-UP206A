@@ -1,6 +1,13 @@
-# Week 9
+# Week 9 Agenda
 
-## Conversation series: Albert Kochaphum
+- [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-UP206A&urlpath=tree%2F21W-UP206A%2F&branch=master)
+- Welcome to week 8. Concerns? Questions? Stories to share?
+- Hackathon Part 2
+- Break
+- Spatial Analysis: Point Patterns
+- Who is Eleanor?
+
+## Next week's guest speaker: Albert Kochaphum
 
 <img src="https://idre.ucla.edu/wp-content/uploads/2014/09/Albert-Kochaphum.jpg" width=200>
 
@@ -8,9 +15,6 @@ Albert is UCLA's GIS Coordinator, working for the [Institute for Digital Researc
 
 - [Story Maps Tutorial](https://ucladataguides.readthedocs.io/en/latest/presenting_data/storymaps.html)
 - [ESRI's Story Map Guide](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407)
-
-## Lab
-*   Spatial Analysis: Point Patterns
 
 ## Group Assignment #4: Spatial Analysis
 
