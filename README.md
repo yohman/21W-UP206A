@@ -135,7 +135,8 @@ If the above steps haven't solved your problem, send an email (or attend office 
 
 
 ## Readings and Resources
-
+*   [Geographic Data Science with PySAL and the PyData Stack](https://geographicdata.science/book/intro.html)
+*   [Spatial Analysis Methods and Practice by George Grekousis](https://www.cambridge.org/core/books/spatial-analysis-methods-and-practice/4C135005A621335D06CC63EFF17E3913)   
 *   Think Python 2nd Edition by Allen B. Downey
     *   [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
 *   Jupyter Notebooks
