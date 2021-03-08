@@ -13,4 +13,8 @@
 
 # Final project guidelines review
 
+- All materials are to be submitted no later than 2pm on Monday of Finals Week
+   - A link to your story map
+   - Link(s) to your Jupyter Notebooks on github
+   - Link(s) to your Jupyter Notebook(s) on Jupyter Hub
 - [Final project guidelines](../../Midterm%20and%20Finals/readme.md)
