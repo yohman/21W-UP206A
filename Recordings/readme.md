@@ -9,3 +9,4 @@ These recordings are password protected and only available to students who are c
 - Week 7 [Hackathon, bus scraping, and getting to know Chris](https://ucla.zoom.us/rec/share/OlRNUWgpb-SrMUVkAr_D6F-HjYNq9hiS3OCVlD8Nln0GD-TpZQyo8SQuoRuXOxdS.4vIkjDCS1uV6X6Ia?startTime=1613613992000)
 - Week 8 [A Conversation with Adam and Spatial Autocorrelation Lab](https://ucla.zoom.us/rec/share/A_e_-Z7YYaWG-ByA-rlfCNHNTekYBY1pEdSNsu-__P8-EK5mRQ-wiZD3aT747hjT.q8XfYnAkh2aW6OB9?startTime=1614031633000)
 - Week 9 [Hackathon, point pattern analysis, and getting to know Eleanor](https://ucla.zoom.us/rec/share/p9pS0mH_tLGW96-iKfQVj1T46TEAGcaWZOBb_kD7CRdOPm0-xpkZhDlOUIyVQJkx.dvYA5lT1SRAIDprd?startTime=1614636368000)
+- Week 10 [A conversation with Albert and Ben, Remote Sensing lab](https://ucla.zoom.us/rec/share/sSJ-XFQGZG6THIW381mwYMCLEK4aqpoTnh3o-vVmGrlVS_RXHVb4fSw_MRIZcngw.NU0bj7arl3WAOoOu?startTime=1615241038000)
